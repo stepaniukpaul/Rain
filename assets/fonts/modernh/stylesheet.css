@@ -1,0 +1,72 @@
+@font-face {
+    font-family: 'Modern H EcoLight';
+    src: url('ModernH-EcoLight.eot');
+    src: url('ModernH-EcoLight.eot?#iefix') format('embedded-opentype'),
+        url('ModernH-EcoLight.woff2') format('woff2'),
+        url('ModernH-EcoLight.woff') format('woff'),
+        url('ModernH-EcoLight.ttf') format('truetype'),
+        url('ModernH-EcoLight.svg#ModernH-EcoLight') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Modern H';
+    src: url('ModernH-Bold.eot');
+    src: url('ModernH-Bold.eot?#iefix') format('embedded-opentype'),
+        url('ModernH-Bold.woff2') format('woff2'),
+        url('ModernH-Bold.woff') format('woff'),
+        url('ModernH-Bold.ttf') format('truetype'),
+        url('ModernH-Bold.svg#ModernH-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Modern H';
+    src: url('ModernH-Light.eot');
+    src: url('ModernH-Light.eot?#iefix') format('embedded-opentype'),
+        url('ModernH-Light.woff2') format('woff2'),
+        url('ModernH-Light.woff') format('woff'),
+        url('ModernH-Light.ttf') format('truetype'),
+        url('ModernH-Light.svg#ModernH-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Modern H EcoLight';
+    src: url('ModernH-EcoLight_1.eot');
+    src: url('ModernH-EcoLight_1.eot?#iefix') format('embedded-opentype'),
+        url('ModernH-EcoLight_1.woff2') format('woff2'),
+        url('ModernH-EcoLight_1.woff') format('woff'),
+        url('ModernH-EcoLight_1.ttf') format('truetype'),
+        url('ModernH-EcoLight_1.svg#ModernH-EcoLight') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Modern H';
+    src: url('ModernH-Light_1.eot');
+    src: url('ModernH-Light_1.eot?#iefix') format('embedded-opentype'),
+        url('ModernH-Light_1.woff2') format('woff2'),
+        url('ModernH-Light_1.woff') format('woff'),
+        url('ModernH-Light_1.ttf') format('truetype'),
+        url('ModernH-Light_1.svg#ModernH-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Modern H';
+    src: url('ModernH-Bold_1.eot');
+    src: url('ModernH-Bold_1.eot?#iefix') format('embedded-opentype'),
+        url('ModernH-Bold_1.woff2') format('woff2'),
+        url('ModernH-Bold_1.woff') format('woff'),
+        url('ModernH-Bold_1.ttf') format('truetype'),
+        url('ModernH-Bold_1.svg#ModernH-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+

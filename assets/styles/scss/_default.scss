@@ -1,0 +1,30 @@
+html {
+  font-size: 25px;
+}
+
+body {
+  font-family: 'Roboto Th', sans-serif;
+  font-weight: 100;
+  color: #ffffff;
+}
+
+section {
+
+}
+
+.container {
+  width: 1170px;
+  margin: 0 auto;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  white-space: nowrap;
+}
+
+h1, h2, h3, h4, h5, h6, p, span, b, div {
+  line-height: 1.76rem;
+}
+
+a {
+  cursor: pointer;
+}
